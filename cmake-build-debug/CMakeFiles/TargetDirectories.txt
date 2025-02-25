@@ -1,0 +1,4 @@
+/home/mitri/C_Projects/PSS/cmake-build-debug/CMakeFiles/Generate.dir
+/home/mitri/C_Projects/PSS/cmake-build-debug/CMakeFiles/Write.dir
+/home/mitri/C_Projects/PSS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mitri/C_Projects/PSS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

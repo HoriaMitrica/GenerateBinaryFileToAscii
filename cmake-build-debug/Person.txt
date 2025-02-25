@@ -1,0 +1,21 @@
+   12                        Mexico                  Central City                135 Walnut Way       555-3456          jane.doe@example.com
+   21                         Alice                      Williams01-12-1975F
+   31                       Johnson                         Davis23-11-1995F
+   41                         Emily                        Miller05-06-1988F
+   51                       Michael                         Brown12-03-1993M
+   61                         Brown                          Jane19-09-1991F
+   72                       Germany                 National Park                    789 Elm St       555-7654       david.davis@example.com
+   81                          John                         Jones20-10-1985F
+   92                     Australia                 National Park                    864 Fir Ct       555-9876      sarah.miller@example.com
+  101                         Jones                       Michael30-07-1992M
+  113                  NextGen Tech                                                  Coast City                    789 Elm St       555-2345 (55) 5557-2098                              
+  121                         Sarah                          Jane19-09-1991M
+  132                       Germany                  Central City                   321 Pine St       555-2345      sarah.miller@example.com
+  143              Global Solutions                        Brazil                                            246 PineCrest Dr       555-8765 (30) 5555-8361   daniel.martinez@example.com
+  153                     Tech Corp                           USA                   Hill Valley                   321 Pine St       555-7654 (11) 5555-9874      laura.garcia@example.com
+  162                     Australia                     Star City              246 PineCrest Dr       555-8765      laura.garcia@example.com
+  171                         Smith                         Sarah01-12-1975M
+  182                        Brazil                 National City                                                    emily.jones@example.com
+  192                        Brazil                                            246 PineCrest Dr       555-5678      laura.garcia@example.com
+  203                     Tech Corp                         Japan                   Hill Valley                 357 Spruce St       555-4321  (1) 5555-0123      bob.williams@example.com
+  211                         horia                       mitrica25-11-2002M
